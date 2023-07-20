@@ -1,9 +1,9 @@
 
 #### Progress 🌺
 
-- [ ] data model (- tokken, password.);
-- [ ] cryptography;
-- [ ] file handling;
-- [ ] CLI arguments;
-- [ ] set and change master password;
-- [ ] Docs.
+- [x] data model (- tokken, password.);
+- [x] cryptography;
+- [x] file handling;
+- [x] CLI arguments;
+- [x] set and change master password;
+- [x] Docs.
