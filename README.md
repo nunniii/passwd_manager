@@ -1,4 +1,9 @@
 # passwd_manager
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![License](https://img.shields.io/github/license/nunniii/passwd_manager)](./LICENSE)
+
+<hr>
 🐫 📓 This is a new version of my personal password manager written in OCaml
 
 **[creation progress](./progress.md)**
@@ -33,3 +38,14 @@ A compilação é simples pois optei por usar o dune, caso não tenha familiarid
 
 ```dune build```
 
+
+
+## Contributing
+
+Please, follow the steps of [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) to contribute.
+
+
+<hr>
+<p align="center">
+made with ♥ by a student
+<p/>
