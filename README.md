@@ -1,5 +1,7 @@
 # passwd_manager
 
+**There is an older version written in go lang of this repository: [personal-access-tokens-guard](https://github.com/nunniii/personal-access-tokens-guard)**
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![License](https://img.shields.io/github/license/nunniii/passwd_manager)](./LICENSE)
 
